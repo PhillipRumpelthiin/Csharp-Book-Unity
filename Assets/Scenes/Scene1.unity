@@ -225,10 +225,23 @@ MonoBehaviour:
   m_GameObject: {fileID: 1219544870}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9a047d9d72ef7e049a2372a95bda2313, type: 3}
+  m_Script: {fileID: 11500000, guid: 7365a1222133abc468d1635a65eddcdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myName: Phillip Rumpelthiin
+  AddedAge: 1
+  Pi: 3.14
+  FirstName: Harrison
+  IsAuthor: 1
+  CurrentGold: 32
+  PureOfHeart: 1
+  HasSecretIncantation: 0
+  RareItem: Relic Stone
+  CharacterAction: Attack
+  DiceRoll: 7
+  PlayerLives: 3
+  CamTransform: {fileID: 0}
+  DirectionLight: {fileID: 0}
+  LightTransform: {fileID: 0}
 --- !u!1 &1859061800
 GameObject:
   m_ObjectHideFlags: 0
